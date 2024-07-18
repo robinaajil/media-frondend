@@ -1,1 +1,1 @@
-export const serverUrl='http://localhost:3000'
+export const serverUrl='https://media-server-k93s.onrender.com'
